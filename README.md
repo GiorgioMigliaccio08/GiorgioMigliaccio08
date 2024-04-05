@@ -1,3 +1,4 @@
+![Banner] (GiorgioMigliaccio08%20.png)
 ### Hi there 👋
 
 <!--
