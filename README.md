@@ -1,4 +1,4 @@
-![Banner] (Giorgio Migliaccio.png)
+![Banner](Giorgio Migliaccio.png)
 ### Hi there 👋
 
 <!--
