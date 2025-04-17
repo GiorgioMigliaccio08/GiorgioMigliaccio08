@@ -11,12 +11,12 @@
  - 👨‍💻 All of my projects are available at https://github.com/GiorgioMigliaccio08
    
  - 🚀 Visit my Portfolio : https://portfolio-giorgio-migliaccio.vercel.app/
+
+ - 📫 How to reach me **giorgiomigliaccio08@gmail.com**
  
  - 💬 Ask me about :<br>
-   FRONT-AND : **HTML5, CSS, JAVASCRIPT, BOOTSTRAP, SASS, TYPESCRIPT, REACT, REDUX**<br>
-   BACK.AND : **JAVA, SPRING BOOT, PGADMIN, POSTGRE SQL**
- 
- - 📫 How to reach me **giorgiomigliaccio08@gmail.com**
+   Front-End : **HTML5, CSS, JAVASCRIPT, BOOTSTRAP, SASS, TYPESCRIPT, REACT, REDUX**<br>
+   Back-End : **JAVA, SPRING BOOT, PGADMIN, POSTGRE SQL**
  
  - 🛠️ Languages and Tools
 
