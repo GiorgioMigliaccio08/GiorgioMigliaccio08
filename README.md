@@ -1,17 +1,14 @@
-![Banner](Giorgio Migliaccio.png)
-### Hi there 👋
+![Banner](./GiorgioMigliaccio.png)
+<h1 align="center">Hello! 👋, I'm Giorgio Migliaccio</h1>
+ <h3 align="center">A passionate Full-Stack developer from Italy 🇮🇹</h3>
+ 
+ 
 
-<!--
-**GiorgioMigliaccio08/GiorgioMigliaccio08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
+ - 🌱 I’m currently learning **React and Python**
+ 
+ - 👨‍💻 All of my projects are available at 
+ 
+ - 💬 Ask me about **react, js, bootstrap**
+ 
+ - 📫 How to reach me **giorgiomigliaccio08@gmail.com**
